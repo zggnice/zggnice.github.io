@@ -31,17 +31,6 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -75,11 +64,22 @@
     
     
     <entry>
-      <title>friends</title>
-      <link href="/friends/index.html"/>
-      <url>/friends/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/data/friends.json"/>
+      <url>/data/friends.json</url>
+      
+        <content type="html"><![CDATA[[{"avatar":"http://image.luokangyuan.com/1_qq_27922023.jpg","name":"码酱","introduction":"我不是大佬，只是在追寻大佬的脚步","url":"http://luokangyuan.com/","title":"前去学习"},{"avatar":"http://image.luokangyuan.com/4027734.jpeg","name":"闪烁之狐","introduction":"编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬","url":"https://blinkfox.github.io/","title":"前去学习"},{"avatar":"http://image.luokangyuan.com/avatar.jpg","name":"ja_rome","introduction":"平凡的脚步也可以走出伟大的行程","url":"https://me.csdn.net/jlh912008548","title":"前去学习"}]]]></content>
       
     </entry>
     
@@ -97,9 +97,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>friends</title>
+      <link href="/friends/index.html"/>
+      <url>/friends/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -108,11 +108,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/data/friends.json"/>
-      <url>/data/friends.json</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[[{"avatar":"http://image.luokangyuan.com/1_qq_27922023.jpg","name":"码酱","introduction":"我不是大佬，只是在追寻大佬的脚步","url":"http://luokangyuan.com/","title":"前去学习"},{"avatar":"http://image.luokangyuan.com/4027734.jpeg","name":"闪烁之狐","introduction":"编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬","url":"https://blinkfox.github.io/","title":"前去学习"},{"avatar":"http://image.luokangyuan.com/avatar.jpg","name":"ja_rome","introduction":"平凡的脚步也可以走出伟大的行程","url":"https://me.csdn.net/jlh912008548","title":"前去学习"}]]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
