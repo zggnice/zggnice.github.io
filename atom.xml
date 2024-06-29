@@ -6,7 +6,7 @@
   <link href="https://zggnice.github.io/atom.xml" rel="self"/>
   
   <link href="https://zggnice.github.io/"/>
-  <updated>2024-06-29T14:13:24.953Z</updated>
+  <updated>2024-06-29T14:16:53.804Z</updated>
   <id>https://zggnice.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://zggnice.github.io/posts/b0283f36.html"/>
     <id>https://zggnice.github.io/posts/b0283f36.html</id>
     <published>2024-06-29T14:06:40.000Z</published>
-    <updated>2024-06-29T14:13:24.953Z</updated>
+    <updated>2024-06-29T14:16:53.804Z</updated>
     
-    <content type="html"><![CDATA[<p>标识符命名规则（见名知感）<br>①小驼峰命名法：方法、变量<br>规范1：标识符是一个单词的时候，全部小写<br>范例1:name<br>规范2：由多个单词组成的时候，第一个单词首字母小写，其他单词首字母大写<br>范例2:first Name<br>②大驼峰命名法：类名<br>规范：标识符是个单词的时候，首字母大写<br>范例1:Student<br>规范2：标识符由多个单词组成的时候，每个单词的首字母大写。<br>范例2:GoodStudent</p>]]></content>
+    <content type="html"><![CDATA[<p>标识符命名规则（见名知意）<br>①小驼峰命名法：方法、变量<br>规范1：标识符是一个单词的时候，全部小写<br>范例1:name<br>规范2：由多个单词组成的时候，第一个单词首字母小写，其他单词首字母大写<br>范例2:first Name<br>②大驼峰命名法：类名<br>规范：标识符是个单词的时候，首字母大写<br>范例1:Student<br>规范2：标识符由多个单词组成的时候，每个单词的首字母大写。<br>范例2:GoodStudent</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;标识符命名规则（见名知感）&lt;br&gt;①小驼峰命名法：方法、变量&lt;br&gt;规范1：标识符是一个单词的时候，全部小写&lt;br&gt;范例1:name&lt;br&gt;规范2：由多个单词组成的时候，第一个单词首字母小写，其他单词首字母大写&lt;br&gt;范例2:first Name&lt;br&gt;②大驼峰命名法：类名</summary>
+    <summary type="html">&lt;p&gt;标识符命名规则（见名知意）&lt;br&gt;①小驼峰命名法：方法、变量&lt;br&gt;规范1：标识符是一个单词的时候，全部小写&lt;br&gt;范例1:name&lt;br&gt;规范2：由多个单词组成的时候，第一个单词首字母小写，其他单词首字母大写&lt;br&gt;范例2:first Name&lt;br&gt;②大驼峰命名法：类名</summary>
       
     
     
